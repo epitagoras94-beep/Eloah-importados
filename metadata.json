@@ -1,0 +1,6 @@
+{
+  "name": "Oud & Gold - Gestão de Perfumes Árabes",
+  "description": "Controle de estoque de perfumes árabes, conversão automática USD para BRL, gestão de parcelas e contas a receber, histórico de cobrança e relatórios de lucratividade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
